@@ -8,3 +8,5 @@ Driver monitoring systems (DMS) monitor the driver’s attention, alertness and 
 Drowsiness detection:
 Drowsiness detection can be implemented using DLIB library deep learning based modules and face landmark detection. And face_utils library for basic convolution operations. 
 Using eye landmarks from the shape predictor ‘68 facial landmarks’ and calculating the eye aspect ratio we can detect if the driver is ACTIVE or DROWSY.
+
+![ezgif-3-1398c10041](https://github.com/Mrittunjay/DMS-Drowsiness-Detection-live-Google-Collab/assets/24440830/6f257cdd-82f8-43e0-ab5d-a74916ed676f)
